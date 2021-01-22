@@ -1,6 +1,6 @@
 <?php 
-	namespace NikitaMakshev\Coldhot\Controller;
-    use function NikitaMakshev\Coldhot\View\showGame;
+	namespace VladMakushev\Controller;
+    use function VladMakushev\View\showGame;
     
     function startGame() {
         echo "Game started".PHP_EOL;

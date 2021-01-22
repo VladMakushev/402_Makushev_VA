@@ -29,3 +29,16 @@
 3. Перейти в корневой каталог;
 4. Выполнить в консоли команду `composer update`;
 5. Перейти в каталог bin из корнегого каталога и запустить файл guess-number.bat.
+Из Packagist:
+
+1. Установить composer, если он не установлен;
+2. Перейти в каталог, в который вы будете клонировать проект;
+3. Выполнить команду `composer require VladMakushev/cold-hot`;
+4. Перейти в каталог vendor/bin;
+5. Запустить файл guess-number.bat.
+
+* * *
+
+## Ссылки
+
+Packagist: <https://packagist.org/packages/VladMakushev/cold-hot>
